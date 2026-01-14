@@ -103,7 +103,7 @@ Hands-on experimentation with embedded communication and automation.
 ## 📫 Connect With Me
 
 * 💼 **GitHub:** [https://github.com/](https://github.com/)
-* 🌐 **Portfolio:** [https://github.com/](https://portfolioaj-seven.vercel.app/)
+* 🌐 **Portfolio:** [Portfolio](https://portfolioaj-seven.vercel.app/)
 
 ---S
 
