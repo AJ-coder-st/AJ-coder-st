@@ -1,51 +1,32 @@
 # 👋 Hi, I’m **Bharath Waj**
 
-### 💻 Full-Stack Developer • 🤖 AI Enthusiast • ⚙️ Automation Builder
+### 🤖 AI/ML Engineer in Progress • 💻 MERN Stack Developer • 📡 IoT Explorer
 
-I specialize in building **end-to-end software solutions** that merge **modern web technologies, AI-driven systems, and automation**.
-From crafting intuitive user interfaces to engineering scalable backends and intelligent workflows, I focus on turning complex problems into **practical, real-world solutions**.
+I build **intelligent, end-to-end systems** that combine **AI/ML intelligence**, **scalable MERN-based web platforms**, and **IoT-driven automation**.
+My focus is on designing solutions where **data, intelligence, and software engineering intersect** to solve real-world problems efficiently.
 
 ---
 
 ## 🚀 About Me
 
-* 🌟 **Full-Stack Developer** with hands-on experience in React, Node.js, Express, MongoDB, and TypeScript
-* 🧠 Actively exploring **AI-powered applications**, intelligent agents, and workflow automation
-* 🎯 Building solutions for **solopreneurs, startups, and public-service use cases**
-* 🌍 Experienced with **cloud deployments (Vercel)**, **IoT systems**, and **hardware-software integration**
+* 🧠 Strong focus on **AI/ML-driven applications**, intelligent agents, and automation workflows
+* 💻 **MERN Stack Developer** experienced in building scalable, production-ready web applications
+* 📡 Hands-on with **IoT systems** involving Raspberry Pi, Arduino, and wireless communication
+* 🌍 Experience deploying full-stack applications on **Vercel** with real-world use cases
+* 🎯 Interested in solutions for **public services, healthcare, startups, and automation-driven platforms**
 
 ---
 
-## 📂 Featured Projects
-
-### 🏥 Blood Bank Management System
-
-A complete digital platform to streamline blood donation and hospital requests.
-
-* React-based frontend with role-based access
-* Express + MongoDB backend with secure APIs
-* Donor onboarding, hospital requests, and admin verification workflows
-
----
-
-### 👕 T-Shirt Customization Platform
-
-A modern e-commerce experience focused on personalization.
-
-* React + TypeScript application
-* Custom design uploads, product management, and cart flow
-* Secure authentication and user management
-
----
+## 🧠 AI / ML Focused Projects (Primary)
 
 ### 🏛 Automated Government Service Delivery Portal
 
-An AI-driven system to simplify public service interactions.
+An **AI-powered chatbot system** designed to simplify government documentation workflows.
 
-* Chatbot-based guidance for government documentation
-* Automated verification workflows
-* Reduced manual effort and operational overhead
-* Production-ready API integration with proper CORS & proxy handling
+* NLP-based conversational guidance
+* Automated document verification logic
+* Reduced manual processing and operational overhead
+* Production-ready API integrations with proper CORS & proxy handling
 
 ---
 
@@ -54,53 +35,74 @@ An AI-driven system to simplify public service interactions.
 **AI-Powered Early Detection System for Rare Neurological Disorders**
 
 * Software-only medical AI approach
-* Voice and text pattern analysis for early indicators
-* Research-oriented architecture with ethical AI considerations
+* Voice and text pattern analysis for early-stage indicators
+* Research-focused architecture with ethical AI considerations
 
 ---
 
+## 💻 MERN Stack Projects (Secondary)
+
+### 🏥 Blood Bank Management System
+
+A full-stack healthcare platform built using the **MERN stack**.
+
+* React frontend with role-based access control
+* Express + MongoDB backend with secure REST APIs
+* Donor registration, hospital request handling, and admin validation
+
+---
+
+### 👕 T-Shirt Customization Platform
+
+A scalable e-commerce system focused on personalization.
+
+* React + TypeScript frontend
+* Custom design uploads and product management
+* Secure authentication, cart flow, and user management
+
+---
+
+## 📡 IoT & Embedded Systems (Tertiary)
+
 ### 📡 IoT & Hardware Systems
 
-Hands-on experimentation with embedded communication and automation.
+Applied experimentation with **embedded systems and wireless communication**.
 
-* HC-12 wireless module configuration
-* Raspberry Pi and Arduino Nano integration
+* HC-12 wireless module configuration and testing
+* Raspberry Pi & Arduino Nano integration
 * Serial communication debugging using AT commands
+* Hardware–software coordination for automation use cases
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-
-* React, TypeScript, Tailwind CSS, ShadCN UI
-
-**Backend**
-
-* Node.js, Express.js, MongoDB, RESTful APIs
-
-**AI & Automation**
+### AI / ML & Automation
 
 * Python, Pattern Recognition, Intelligent Workflows
+* AI-powered chatbots and decision systems
 
-**Tools & DevOps**
+### MERN Stack
 
+* **Frontend:** React, TypeScript, Tailwind CSS, ShadCN UI
+* **Backend:** Node.js, Express.js, MongoDB
+* RESTful APIs, authentication, role-based systems
+
+### IoT & Tools
+
+* Raspberry Pi, Arduino, HC-12 modules
 * GitHub, Vercel, MongoDB Atlas
-* Raspberry Pi, Arduino
 
 ---
 
 ## 📊 Highlights & Experience
 
-* 🔹 Developed an **Asset Management System** with modern UI and GPS concepts
-* 🔹 Designed **modular backend architectures** with clean error handling
-* 🔹 Built **data-driven Excel dashboards** for business insights
-* 🔹 Explored **Go-To-Market strategies** for a drone-based service startup
-* 🔹 Strong troubleshooting skills across software, hardware, and deployment pipelines
+* 🔹 Built **AI-first systems** focused on automation and decision support
+* 🔹 Developed **MERN-based applications** with clean architecture and scalability
+* 🔹 Designed **modular backend services** with robust error handling
+* 🔹 Implemented **asset and data management systems** with real-world constraints
+* 🔹 Strong debugging skills across **AI logic, web stacks, and hardware setups**
 
----
-
-## 📫 Connect With Me
 
 * 💼 **GitHub:** [https://github.com/](https://github.com/)
 * 🌐 **Portfolio:** [Portfolio](https://portfolioaj-seven.vercel.app/)
@@ -110,11 +112,3 @@ Hands-on experimentation with embedded communication and automation.
 
 ---
 
-If you want, I can also:
-
-* ✨ Make this **more startup-focused**
-* 🧠 Tailor it for **AI/ML roles**
-* 💼 Optimize it for **recruiters or hackathon evaluations**
-* 📄 Convert it into a **portfolio landing page intro**
-
-Just tell me the direction.
