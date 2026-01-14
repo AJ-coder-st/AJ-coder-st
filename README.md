@@ -105,7 +105,6 @@ Hands-on experimentation with embedded communication and automation.
 * 💼 **GitHub:** [https://github.com/](https://github.com/)
 * 🌐 **Portfolio:** [Portfolio](https://portfolioaj-seven.vercel.app/)
 
----S
 
 🔥 **“I build systems where technology meets real-world impact.”**
 
