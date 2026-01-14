@@ -1,68 +1,121 @@
-# 👋 Hi, I’m Bharath Waj  
+# 👋 Hi, I’m **Bharath Waj**
 
-💻 **Full Stack Developer | AI Enthusiast | Automation Builder**  
+### 💻 Full-Stack Developer • 🤖 AI Enthusiast • ⚙️ Automation Builder
 
-I’m passionate about creating **end-to-end applications** that combine **modern web development, AI systems, and automation**.  
-From designing clean UIs to building scalable backends, I love solving problems with technology.  
-
----
-
-## 🚀 About Me  
-- 🌟 Full Stack Developer (React, Node.js, Express, MongoDB, TypeScript)  
-- 🧠 Exploring **AI-powered systems** and **automation tools**  
-- 🎯 Working on projects that help **solopreneurs** and **citizens** with smart tech  
-- 🌍 Experience in **Vercel deployments, Raspberry Pi, and IoT integrations**  
+I specialize in building **end-to-end software solutions** that merge **modern web technologies, AI-driven systems, and automation**.
+From crafting intuitive user interfaces to engineering scalable backends and intelligent workflows, I focus on turning complex problems into **practical, real-world solutions**.
 
 ---
 
-## 📂 Projects  
+## 🚀 About Me
 
-### 🏥 Blood Bank Management System  
-- Built **frontend (React)** + **backend (Express, MongoDB)**  
-- Features: Donor login, hospital portal, request handling APIs, admin validation  
-
-### 👕 T-shirt Customization App  
-- React + TypeScript app for **custom design uploads**  
-- Includes product management, cart, and secure login/registration  
-
-### 🏛 Automated Government Service Delivery Portal  
-- AI-powered chatbot for government workflows  
-- Automates **document verification** and reduces **operational costs**  
-- Integrated APIs, CORS & proxy setup, production-ready  
-
-### 🧠 AI Research Project  
-**AI-Powered Early Detection System for Rare Neurological Disorders**  
-- Uses **voice + text pattern analysis** for early detection  
-- Focused on purely **software-based medical AI**  
-
-### 📡 IoT & Hardware  
-- Configured **HC-12 wireless modules** with Raspberry Pi & Arduino Nano  
-- Debugged serial communication with AT commands  
+* 🌟 **Full-Stack Developer** with hands-on experience in React, Node.js, Express, MongoDB, and TypeScript
+* 🧠 Actively exploring **AI-powered applications**, intelligent agents, and workflow automation
+* 🎯 Building solutions for **solopreneurs, startups, and public-service use cases**
+* 🌍 Experienced with **cloud deployments (Vercel)**, **IoT systems**, and **hardware-software integration**
 
 ---
 
-## 🛠 Tech Stack  
+## 📂 Featured Projects
 
-**Frontend:** React, TypeScript, Tailwind, ShadCN UI  
-**Backend:** Node.js, Express.js, MongoDB, REST APIs  
-**AI & Data:** Python, Automation Systems, Pattern Recognition  
-**Tools & DevOps:** GitHub, Vercel, Raspberry Pi, Arduino, MongoDB Atlas  
+### 🏥 Blood Bank Management System
 
----
+A complete digital platform to streamline blood donation and hospital requests.
 
-## 📊 Highlights  
-- 🔹 Built an **asset management system** with modern UI upgrades  
-- 🔹 Structured **clean backend servers** with modular code + error handling  
-- 🔹 Enhanced **Excel dashboards** for business insights & sales tracking  
-- 🔹 Explored **Go-To-Market strategy** for drone service startup  
-- 🔹 Hands-on with **troubleshooting**: GitHub pushes, Dell safe mode, HC-12 testing  
+* React-based frontend with role-based access
+* Express + MongoDB backend with secure APIs
+* Donor onboarding, hospital requests, and admin verification workflows
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [GitHub](https://github.com/)  
-- 🌐 Portfolio: *Coming Soon*  
+### 👕 T-Shirt Customization Platform
+
+A modern e-commerce experience focused on personalization.
+
+* React + TypeScript application
+* Custom design uploads, product management, and cart flow
+* Secure authentication and user management
 
 ---
 
-🔥 *"I build things that connect technology with real-world impact."*  
+### 🏛 Automated Government Service Delivery Portal
+
+An AI-driven system to simplify public service interactions.
+
+* Chatbot-based guidance for government documentation
+* Automated verification workflows
+* Reduced manual effort and operational overhead
+* Production-ready API integration with proper CORS & proxy handling
+
+---
+
+### 🧠 AI Research Project
+
+**AI-Powered Early Detection System for Rare Neurological Disorders**
+
+* Software-only medical AI approach
+* Voice and text pattern analysis for early indicators
+* Research-oriented architecture with ethical AI considerations
+
+---
+
+### 📡 IoT & Hardware Systems
+
+Hands-on experimentation with embedded communication and automation.
+
+* HC-12 wireless module configuration
+* Raspberry Pi and Arduino Nano integration
+* Serial communication debugging using AT commands
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* React, TypeScript, Tailwind CSS, ShadCN UI
+
+**Backend**
+
+* Node.js, Express.js, MongoDB, RESTful APIs
+
+**AI & Automation**
+
+* Python, Pattern Recognition, Intelligent Workflows
+
+**Tools & DevOps**
+
+* GitHub, Vercel, MongoDB Atlas
+* Raspberry Pi, Arduino
+
+---
+
+## 📊 Highlights & Experience
+
+* 🔹 Developed an **Asset Management System** with modern UI and GPS concepts
+* 🔹 Designed **modular backend architectures** with clean error handling
+* 🔹 Built **data-driven Excel dashboards** for business insights
+* 🔹 Explored **Go-To-Market strategies** for a drone-based service startup
+* 🔹 Strong troubleshooting skills across software, hardware, and deployment pipelines
+
+---
+
+## 📫 Connect With Me
+
+* 💼 **GitHub:** [https://github.com/](https://github.com/)
+* 🌐 **Portfolio:** [https://github.com/](https://portfolioaj-seven.vercel.app/)
+
+---S
+
+🔥 **“I build systems where technology meets real-world impact.”**
+
+---
+
+If you want, I can also:
+
+* ✨ Make this **more startup-focused**
+* 🧠 Tailor it for **AI/ML roles**
+* 💼 Optimize it for **recruiters or hackathon evaluations**
+* 📄 Convert it into a **portfolio landing page intro**
+
+Just tell me the direction.
