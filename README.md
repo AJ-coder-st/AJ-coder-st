@@ -106,9 +106,10 @@ Applied experimentation with **embedded systems and wireless communication**.
 
 * 💼 **GitHub:** [https://github.com/](https://github.com/)
 * 🌐 **Portfolio:** [Portfolio](https://portfolioaj-seven.vercel.app/)
+---
 
-
-🔥 **“I build systems where technology meets real-world impact.”**
+🔥 **“I engineer intelligence first, systems next, and impact always.”**
 
 ---
 
+ 
